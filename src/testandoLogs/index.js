@@ -3,3 +3,5 @@ console.log("Commit 2");
 
 console.log("Commite da branch testeUm");
 console.log("Commite da branch testeDois");
+
+console.log("teste02");
